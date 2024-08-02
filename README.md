@@ -6,4 +6,4 @@ Meu nome é Isaac Soares
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-![Brocasito queimando dinheiro](https://tenor.com/pt-BR/view/the-simpsons-homer-simpson-good-bye-bye-no-gif-16925608232308805852)
+(https://tenor.com/pt-BR/view/the-simpsons-homer-simpson-good-bye-bye-no-gif-16925608232308805852)
